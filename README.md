@@ -1,7 +1,7 @@
 # 🐍 Python Foundations Laboratory — Core Data Structures & Control Flow
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,059669,10B981&height=220&section=header&text=Python%20Foundations%20Laboratory&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Core%20Data%20Structures%2C%20Control%20Flow%20%26%20Algorithmic%20Tasks&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Python Foundations Laboratory Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:10B981&customColorList=064E3B,059669,10B981&height=220&section=header&text=Python%20Foundations%20Laboratory&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Core%20Data%20Structures%2C%20Control%20Flow%20%26%20Algorithmic%20Tasks&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Python Foundations Laboratory Banner" />
 </p>
 
 <p align="center">
@@ -148,5 +148,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=064E3B,059669,10B981&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:059669,100:10B981&customColorList=064E3B,059669,10B981&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
